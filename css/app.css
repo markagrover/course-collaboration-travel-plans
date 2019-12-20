@@ -13,6 +13,7 @@ body {
     display: flex;
     margin: 0;
     height: 100%;
+    padding: 5px
 }
 
 .container {
@@ -70,3 +71,4 @@ h2 {
 #scotland {
     background-color: #631880;
 }
+
